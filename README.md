@@ -1,4 +1,4 @@
-# TECHFEST Big Data Competetition 2023
+# TECHFEST Big Data Competition 2023
 ## Analisis Biaya dan Emisi Gas Rumah Kaca Mobil Listrik Beserta Dampaknya terhadap Penjualan Mobil Listrik dan Lingkungan
 
 Untuk melakukan analisis data dan menjawab pertanyaan yang diajukan, telah dibuat program dalam bahasa pemrograman Python. Program dibuat dalam _file_ Python Notebook. Program dapat dijalankan dengan meng-_run_ tiap blok kode secara berurutan. Berikut penjelasan singkat tentang struktur program serta hal yang perlu diperhatikan ketika menjalankannya.
